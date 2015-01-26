@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /css/
+Sitemap: http://conoz.co/sitemap.xml
